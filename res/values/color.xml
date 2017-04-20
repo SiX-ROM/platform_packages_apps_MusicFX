@@ -19,7 +19,7 @@
     <color name="primaryColorDark">#14171A</color>
     <color name="accentColor">#263238</color>
     <color name="highlight">@color/accentColor</color>
-    <color name="lowlight">#009688</color>
+    <color name="lowlight">@*android:color/accent_device_default_light</color>
     <color name="grey">#000000</color>
     <color name="disabled">#525252</color>
     <color name="disabled_gallery">#525252</color>
